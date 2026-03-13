@@ -1,1 +1,1 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+This website is a clone from Jon Barron's public academic website: https://jonbarron.info/. I came to know of this template from Jingtao Huang's website at https://www.jingtaoh.com/, a fellow alumnus at USC. Also check his profile out!
